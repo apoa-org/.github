@@ -2,6 +2,18 @@
 
 澳大利亚房产所有者联盟（APOA）是一个由志愿者支持、服务澳大利亚房产所有者社区的非营利组织。
 
+## 最新更新
+
+### 2026年7月30日
+
+- 🏢 **共享工作空间启用** — 建立组织手册、品牌设计、内部运营和开发日志等基础仓库。
+- 📄 **常用公司资料上线** — 发布 [ASIC注册资料](https://github.com/apoa-org/organization-handbook/tree/main/governance/registrations) 和 [ANZ收款信息](https://github.com/apoa-org/organization-handbook/blob/main/finance/payment-details.md)。
+- 🎉 **首批活动归档** — 整理马年元宵活动及613座谈会的公开记录，见 [2026活动档案](https://github.com/apoa-org/organization-handbook/tree/main/events/2026)。
+- 🎨 **品牌资料整理** — 将目前使用的Logo和UI素材归入 [brand-and-design](https://github.com/apoa-org/brand-and-design)。
+- 🤝 **协作指南发布** — 新成员可查看 [APOA GitHub资料上传指南（中文版）](https://github.com/apoa-org/organization-handbook/blob/main/volunteers/github-beginner-guide-zh.md)。
+
+> 最新内容按日期倒序排列。完成重要资料更新、活动归档或项目阶段成果后，在这里增加一条简短记录和正式链接。
+
 ## 常用资料快速入口
 
 | 要查找的资料 | 快速入口 |
@@ -10,6 +22,7 @@
 | 公司注册资料 | [ASIC注册证书及公司登记信息](https://github.com/apoa-org/organization-handbook/tree/main/governance/registrations) |
 | 活动档案 | [APOA公开活动记录](https://github.com/apoa-org/organization-handbook/tree/main/events) |
 | Logo与设计 | [品牌、Logo和活动视觉资产](https://github.com/apoa-org/brand-and-design) |
+| 新成员指南 | [GitHub资料上传指南（中文版）](https://github.com/apoa-org/organization-handbook/blob/main/volunteers/github-beginner-guide-zh.md) |
 | 组织与志愿者手册 | [APOA Organization Handbook](https://github.com/apoa-org/organization-handbook) |
 | 网站开发 | `APOA-web` 将在当前开发阶段完成后迁入本 Organization |
 | 内部运营 | `internal-operations`（仅获授权成员可见） |
