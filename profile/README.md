@@ -1,70 +1,44 @@
-# Australia Property Owners Alliance (APOA)
+# Australian Property Owners Alliance (APOA)
 
-澳大利亚房产所有者联盟（APOA）是一个由志愿者支持、服务澳大利亚房产所有者社区的非营利组织。
+**澳洲房主联盟｜连接 · 分享 · 改变**  
+**Connect · Share · Make a Difference**
 
-## 最新更新
+APOA 是在澳大利亚创立、由志愿者共同建设的非营利组织和社区平台。社群雏形于 2020 年前后开始形成，并于 2024 年正式注册。我们连接在澳大利亚拥有房产的人，共同学习、分享经验、互相帮助，并以理性和建设性的方式参与公共议题。
 
-### 2026年7月30日
+APOA 的长期方向是 **会员互助（Member Support）、知识教育（Knowledge & Education）和政策参与（Policy & Advocacy）**。
 
-- 🏢 **共享工作空间启用** — 建立组织手册、品牌设计、内部运营和开发日志等基础仓库。
-- 📄 **常用公司资料上线** — 发布 [ASIC注册资料](https://github.com/apoa-org/organization-handbook/tree/main/governance/registrations) 和 [ANZ收款信息](https://github.com/apoa-org/organization-handbook/blob/main/finance/payment-details.md)。
-- 🎉 **首批活动归档** — 整理马年元宵活动及613座谈会的公开记录，见 [2026活动档案](https://github.com/apoa-org/organization-handbook/tree/main/events/2026)。
-- 🎨 **品牌资料整理** — 将目前使用的Logo和UI素材归入 [brand-and-design](https://github.com/apoa-org/brand-and-design)。
-- 🤝 **协作指南发布** — 新成员可查看 [APOA GitHub资料上传指南（中文版）](https://github.com/apoa-org/organization-handbook/blob/main/volunteers/github-beginner-guide-zh.md)。
+> 正式机构介绍与 2027 愿景：[APOA 对外介绍母本｜Master Copy](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md)。此处为摘要，正式内容以母本为准。旧活动及历史材料不追溯修改。
 
-> 最新内容按日期倒序排列。完成重要资料更新、活动归档或项目阶段成果后，在这里增加一条简短记录和正式链接。
+## 快速入口
 
-## 常用资料快速入口
+| 资料 | 官方入口 |
+| --- | --- |
+| 正式机构介绍及 2027 愿景 | [Organization Master 2027](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md) |
+| 组织资料与治理 | [organization-handbook](https://github.com/apoa-org/organization-handbook) |
+| 法定注册资料 | [Registrations](https://github.com/apoa-org/organization-handbook/tree/main/governance/registrations) |
+| 品牌、Logo 与 UI | [brand-and-design](https://github.com/apoa-org/brand-and-design) |
+| 活动档案 | [2026 Events](https://github.com/apoa-org/organization-handbook/tree/main/events/2026) |
+| 志愿者协作指南 | [GitHub Beginner Guide](https://github.com/apoa-org/organization-handbook/blob/main/volunteers/github-beginner-guide-zh.md) |
 
-| 要查找的资料 | 快速入口 |
-|---|---|
-| 银行收款信息 | [ANZ收款账号、BSB及付款说明](https://github.com/apoa-org/organization-handbook/blob/main/finance/payment-details.md) |
-| 公司注册资料 | [ASIC注册证书及公司登记信息](https://github.com/apoa-org/organization-handbook/tree/main/governance/registrations) |
-| 活动档案 | [APOA公开活动记录](https://github.com/apoa-org/organization-handbook/tree/main/events) |
-| Logo与设计 | [品牌、Logo和活动视觉资产](https://github.com/apoa-org/brand-and-design) |
-| 新成员指南 | [GitHub资料上传指南（中文版）](https://github.com/apoa-org/organization-handbook/blob/main/volunteers/github-beginner-guide-zh.md) |
-| 组织与志愿者手册 | [APOA Organization Handbook](https://github.com/apoa-org/organization-handbook) |
-| 网站开发 | `APOA-web` 将在当前开发阶段完成后迁入本 Organization |
-| 内部运营 | `internal-operations`（仅获授权成员可见） |
-| 开发日志 | `development-log`（仅获授权成员可见） |
+## 仓库分工
 
-> 重要资料只维护一个正式版本。这里提供快速入口，不重复保存银行账号或注册资料，避免以后更新不一致。
+- **organization-handbook** — 正式组织母本、治理资料与公开记录的权威入口。
+- **brand-and-design** — 品牌资产及设计规范，引用组织母本。
+- **development-log** — 技术决策、开发与发布记录。
+- **internal-operations** — 运营与志愿者内部协作。
+- **grant-os** — Grant 项目资料、规则与流程，组织事实引用权威来源。
+- **.github** — 当前 GitHub Organization 的介绍与导航。
 
-## APOA协作空间
-
-这个 GitHub Organization 用于沉淀和协作管理：
-
-- 网站与数字产品开发；
-- 9个微信群及数千名活跃用户的社区运营；
-- 线下活动与志愿者协作；
-- 视频号及其他社交媒体内容；
-- 品牌、Logo、UI和设计资产；
-- 公司治理、会议记录及组织知识。
+网站代码目前仍位于 [Kitty52u/APOA-web](https://github.com/Kitty52u/APOA-web)，未来拟整体迁入 Organization；本次不迁移、不影响网站开发和部署。
 
 ## English
 
-APOA is an Australian not-for-profit community supported by volunteers and an active network of property owners.
+**Australian Property Owners Alliance (APOA)** is a volunteer-built Australian not-for-profit organization and community platform. Its community began taking shape around 2020 and it formally registered in 2024. APOA connects Australian property owners to learn, share lived experiences, support one another and contribute constructively to public discussions.
 
-This GitHub organization is APOA's shared workspace for:
+Our three connected directions are **Member Support · Knowledge & Education · Policy & Advocacy**.
 
-- website and digital product development;
-- community operations across nine WeChat groups;
-- events and volunteer collaboration;
-- video and social media content;
-- brand, UI and design assets;
-- governance, meeting records and organizational knowledge.
+Read the [approved Organization Master 2027](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md) for the full public profile and vision. This page is a summary, not a separate source of organizational policy.
 
-## Repositories
+## Collaboration principles
 
-- **organization-handbook** — public organizational knowledge, volunteer guidance, meetings, events and operating practices.
-- **brand-and-design** — public brand assets, UI guidance and media design resources.
-- **development-log** — private development roadmaps, release notes and technical decisions.
-- **internal-operations** — private community, event, media and volunteer coordination.
-- **APOA-web** — website source repository; migration will occur after the current development stage is completed.
-
-## Working principles
-
-- Keep public information easy to find and reuse.
-- Record decisions so future volunteers can understand the context.
-- Use issues and pull requests for changes that need discussion or review.
-- Never commit passwords, API keys, recovery codes or private identity documents.
+Maintain one authoritative source for organizational facts; link rather than duplicate. Use reviewed pull requests for changes. Never publish passwords, API keys, sensitive personal information or unapproved private records.
