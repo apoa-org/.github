@@ -1,43 +1,47 @@
 # Australian Property Owners Alliance (APOA)
 
-**澳洲房主联盟｜连接 · 分享 · 改变**  
 **Connect · Share · Make a Difference**
 
-APOA 是在澳大利亚创立、由志愿者共同建设的非营利组织和社区平台。社群雏形于 2020 年前后开始形成，并于 2024 年正式注册。我们连接在澳大利亚拥有房产的人，共同学习、分享经验、互相帮助，并以理性和建设性的方式参与公共议题。
+The **Australian Property Owners Alliance (APOA)** is a volunteer-built, not-for-profit organization and community platform in Australia. Our community began taking shape around 2020, and the organization was formally registered in 2024.
 
-APOA 的长期方向是 **会员互助（Member Support）、知识教育（Knowledge & Education）和政策参与（Policy & Advocacy）**。
+We bring together people who own property in Australia to learn, share experiences, support one another, and contribute constructively to public discussions affecting property owners.
 
-> 正式机构介绍与 2027 愿景：[APOA 对外介绍母本｜Master Copy](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md)。此处为摘要，正式内容以母本为准。旧活动及历史材料不追溯修改。
+Our three connected areas of focus are **Member Support · Knowledge & Education · Policy & Advocacy**.
 
-## 快速入口
+**Our vision:** A lasting community where practical experience becomes shared knowledge, professionals and members help one another, and property owners can make their voices heard through evidence-based, constructive engagement.
 
-| 资料 | 官方入口 |
+Read our approved [Organization Profile & 2027 Vision — English](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Profile-EN.md) or the [Chinese master copy](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md). These are the authoritative sources for APOA's organizational narrative.
+
+## Explore APOA
+
+| Resource | Link |
 | --- | --- |
-| 正式机构介绍及 2027 愿景 | [Organization Master 2027](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md) |
-| 组织资料与治理 | [organization-handbook](https://github.com/apoa-org/organization-handbook) |
-| 法定注册资料 | [Registrations](https://github.com/apoa-org/organization-handbook/tree/main/governance/registrations) |
-| 品牌、Logo 与 UI | [brand-and-design](https://github.com/apoa-org/brand-and-design) |
-| 活动档案 | [2026 Events](https://github.com/apoa-org/organization-handbook/tree/main/events/2026) |
-| 志愿者协作指南 | [GitHub Beginner Guide](https://github.com/apoa-org/organization-handbook/blob/main/volunteers/github-beginner-guide-zh.md) |
+| Organization Profile & 2027 Vision | [English profile](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Profile-EN.md) |
+| Organization handbook and governance | [organization-handbook](https://github.com/apoa-org/organization-handbook) |
+| Registration information | [Legal registrations](https://github.com/apoa-org/organization-handbook/tree/main/governance/registrations) |
+| Brand, logos and design guidance | [brand-and-design](https://github.com/apoa-org/brand-and-design) |
+| Events and community activities | [Event archive](https://github.com/apoa-org/organization-handbook/tree/main/events/2026) |
+| Volunteer collaboration | [Getting started guide](https://github.com/apoa-org/organization-handbook/blob/main/volunteers/github-beginner-guide-zh.md) |
 
-## 仓库分工
+## Our GitHub repositories
 
-- **organization-handbook** — 正式组织母本、治理资料与公开记录的权威入口。
-- **brand-and-design** — 品牌资产及设计规范，引用组织母本。
-- **development-log** — 技术决策、开发与发布记录。
-- **internal-operations** — 运营与志愿者内部协作。
-- **grant-os** — Grant 项目资料、规则与流程，组织事实引用权威来源。
-- **.github** — 当前 GitHub Organization 的介绍与导航。
+- **organization-handbook** — official organization information, governance and public records.
+- **brand-and-design** — brand assets and design references.
+- **development-log** — development decisions and release records.
+- **internal-operations** — internal collaboration and operations.
+- **grant-os** — funding opportunity research and grant workflows.
+- **.github** — this public organization profile.
 
+## 中文简介
 
-## English
+**澳洲房主联盟（APOA）｜连接 · 分享 · 改变**
 
-**Australian Property Owners Alliance (APOA)** is a volunteer-built Australian not-for-profit organization and community platform. Its community began taking shape around 2020 and it formally registered in 2024. APOA connects Australian property owners to learn, share lived experiences, support one another and contribute constructively to public discussions.
+APOA 是在澳大利亚创立、由志愿者共同建设的非营利组织和社区平台。社群雏形于 2020 年前后开始形成，并于 2024 年正式注册。我们连接在澳大利亚拥有房产的人，共同学习、分享经验、互相帮助，并以理性、建设性的方式参与公共议题。
 
-Our three connected directions are **Member Support · Knowledge & Education · Policy & Advocacy**.
+我们的三个长期方向是 **会员互助、知识教育、政策参与**。
 
-Read the [approved Organization Master 2027](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md) for the full public profile and vision. This page is a summary, not a separate source of organizational policy.
+完整机构介绍请参阅[《APOA 机构介绍与 2027 愿景》中文正式母本](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md)。新制作的中文资料逐步使用“澳洲房主联盟”；历史资料原则上不追溯修改。
 
 ## Collaboration principles
 
-Maintain one authoritative source for organizational facts; link rather than duplicate. Use reviewed pull requests for changes. Never publish passwords, API keys, sensitive personal information or unapproved private records.
+We maintain a single authoritative source for organization facts, use pull requests to review changes, and do not publish credentials or unapproved private information.
