@@ -29,7 +29,6 @@ APOA 的长期方向是 **会员互助（Member Support）、知识教育（Know
 - **grant-os** — Grant 项目资料、规则与流程，组织事实引用权威来源。
 - **.github** — 当前 GitHub Organization 的介绍与导航。
 
-网站代码目前仍位于 [Kitty52u/APOA-web](https://github.com/Kitty52u/APOA-web)，未来拟整体迁入 Organization；本次不迁移、不影响网站开发和部署。
 
 ## English
 
