@@ -1,5 +1,8 @@
 # APOA Organization Configuration
 
-This repository contains the public profile and shared collaboration guidance for the Australia Property Owners Alliance (APOA) GitHub organization.
+This repository maintains the GitHub organization profile and shared collaboration guidance for the **Australian Property Owners Alliance (APOA)**.
 
-The public organization profile is maintained in `profile/README.md`.
+- [Public organization profile](profile/README.md)
+- [Approved APOA Organization Master 2027](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md) — authoritative organizational identity and vision
+
+The approved master is maintained in `organization-handbook`, not duplicated here.
