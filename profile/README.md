@@ -12,6 +12,12 @@ Our three connected areas of focus are **Member Support · Knowledge & Education
 
 Read our approved [Organization Profile & 2027 Vision — English](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Profile-EN.md) or the [Chinese master copy](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md). These are the authoritative sources for APOA's organizational narrative.
 
+## Latest updates
+
+- **2026-10-16:** [Mid-Autumn Gala & Annual Meeting 2026](https://github.com/apoa-org/organization-handbook/tree/main/events/2026/2026-09-27-mid-autumn-gala-annual-meeting) is now archived as a completed activity, with planning material clearly separated from the final report.
+- **2026-10-16:** [Sydney Community Meetup](https://github.com/apoa-org/organization-handbook/tree/main/events/2026/2026-10-25-sydney-community-meetup) is open for registration; use the linked official event page for current details.
+- **2026-10-16:** The [2026 August–October development and project index](https://github.com/apoa-org/organization-handbook/blob/main/community/2026-development-milestones.md) links organization priorities to recorded community work.
+
 ## Explore APOA
 
 | Resource | Link |
