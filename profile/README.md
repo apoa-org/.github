@@ -15,7 +15,7 @@ Read our approved [Organization Profile & 2027 Vision — English](https://githu
 ## Latest updates
 
 - **2026-11-20:** [November public project and activity progress](https://github.com/apoa-org/organization-handbook/blob/main/community/2026-11-project-and-activity-update.md) — a dated snapshot linking completed events, media records and proposed ideas; not a real-time task board.
-- **2026-11-20:** The [2026 event index](https://github.com/apoa-org/organization-handbook/tree/main/events/2026) distinguishes completed events from the **25 October Sydney meetup**, whose post-event outcome still needs verification; October registration notices are historical.
+- **2026-11-20:** The **25 October Sydney Community Meetup is confirmed completed** by APOA's lead; the [2026 event index](https://github.com/apoa-org/organization-handbook/tree/main/events/2026) retains historic registration details while its post-event summary remains to be added.
 - **2026-11-20:** Proposed community research, local outreach and learning events remain in [APOA Ideas](https://github.com/apoa-org/organization-handbook/tree/main/ideas/) until separately approved.
 - **2026-10-16:** [Mid-Autumn Gala & Annual Meeting 2026](https://github.com/apoa-org/organization-handbook/tree/main/events/2026/2026-09-27-mid-autumn-gala-annual-meeting) has a completed-event report, including subsequent 3ZZZ Mandarin broadcast coverage.
 
