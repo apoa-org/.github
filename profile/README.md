@@ -14,9 +14,10 @@ Read our approved [Organization Profile & 2027 Vision — English](https://githu
 
 ## Latest updates
 
-- **2026-10-16:** [Mid-Autumn Gala & Annual Meeting 2026](https://github.com/apoa-org/organization-handbook/tree/main/events/2026/2026-09-27-mid-autumn-gala-annual-meeting) is now archived as a completed activity, with planning material clearly separated from the final report.
-- **2026-10-16:** [Sydney Community Meetup](https://github.com/apoa-org/organization-handbook/tree/main/events/2026/2026-10-25-sydney-community-meetup) is open for registration; use the linked official event page for current details.
-- **2026-10-16:** The [2026 August–October development and project index](https://github.com/apoa-org/organization-handbook/blob/main/community/2026-development-milestones.md) links organization priorities to recorded community work.
+- **2026-11-20:** [November public project and activity progress](https://github.com/apoa-org/organization-handbook/blob/main/community/2026-11-project-and-activity-update.md) — a dated snapshot linking completed events, media records and proposed ideas; not a real-time task board.
+- **2026-11-20:** The [2026 event index](https://github.com/apoa-org/organization-handbook/tree/main/events/2026) distinguishes completed events from the **25 October Sydney meetup**, whose post-event outcome still needs verification; October registration notices are historical.
+- **2026-11-20:** Proposed community research, local outreach and learning events remain in [APOA Ideas](https://github.com/apoa-org/organization-handbook/tree/main/ideas/) until separately approved.
+- **2026-10-16:** [Mid-Autumn Gala & Annual Meeting 2026](https://github.com/apoa-org/organization-handbook/tree/main/events/2026/2026-09-27-mid-autumn-gala-annual-meeting) has a completed-event report, including subsequent 3ZZZ Mandarin broadcast coverage.
 
 ## Explore APOA
 
@@ -27,6 +28,8 @@ Read our approved [Organization Profile & 2027 Vision — English](https://githu
 | Registration information | [Legal registrations](https://github.com/apoa-org/organization-handbook/tree/main/governance/registrations) |
 | Brand, logos and design guidance | [brand-and-design](https://github.com/apoa-org/brand-and-design) |
 | Events and community activities | [Event archive](https://github.com/apoa-org/organization-handbook/tree/main/events/2026) |
+| Project and activity status (dated public snapshot) | [November 2026 progress](https://github.com/apoa-org/organization-handbook/blob/main/community/2026-11-project-and-activity-update.md) |
+| Proposed initiatives (not approved projects) | [APOA Ideas](https://github.com/apoa-org/organization-handbook/tree/main/ideas/) |
 | Volunteer collaboration | [Getting started guide](https://github.com/apoa-org/organization-handbook/blob/main/volunteers/github-beginner-guide-zh.md) |
 
 ## Our GitHub repositories
@@ -45,6 +48,8 @@ Read our approved [Organization Profile & 2027 Vision — English](https://githu
 APOA 是在澳大利亚创立、由志愿者共同建设的非营利组织和社区平台。社群雏形于 2020 年前后开始形成，并于 2024 年正式注册。我们连接在澳大利亚拥有房产的人，共同学习、分享经验、互相帮助，并以理性、建设性的方式参与公共议题。
 
 我们的三个长期方向是 **会员互助、知识教育、政策参与**。
+
+公开活动和项目最新阶段资料（截至 2026 年 11 月 20 日）见[《2026 年 11 月活动与项目公开进度》](https://github.com/apoa-org/organization-handbook/blob/main/community/2026-11-project-and-activity-update.md)。
 
 完整机构介绍请参阅[《APOA 机构介绍与 2027 愿景》中文正式母本](https://github.com/apoa-org/organization-handbook/blob/main/about/APOA-Organization-Master-2027.md)。新制作的中文资料逐步使用“澳洲房主联盟”；历史资料原则上不追溯修改。
 
